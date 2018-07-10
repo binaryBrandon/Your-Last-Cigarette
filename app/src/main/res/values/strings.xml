@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">YourLast Cigarette</string>
     <string name="just_smoked">I Just Smoked</string>
+    <string name="testTime"></string>
 </resources>
